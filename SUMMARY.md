@@ -16,3 +16,5 @@
   - [Adding your own Health Provider](integrations/health.md)
 - [Adding Your Own Cloud Provider](cloudprovider/README.md)
   - [Caching Agents](cloudprovider/caching.md)
+     - [Authorative vs. Informative](cloudprovider/authorative.md)
+     - [Agents vs. Providers](cloudprovider/agents.md)
