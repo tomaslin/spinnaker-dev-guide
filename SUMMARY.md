@@ -16,5 +16,8 @@
   * [Adding your own Stage](integrations/stage.md)
   * [Adding your own Health Provider](integrations/health.md)
 * [Adding Your Own Cloud Provider](cloudprovider/README.md)
+  * [Building a client](cloudprovider/building-a-client.md)
   * [Caching Agents](cloudprovider/caching.md)
+  * [Providers](providers.md)
+  * [Operations](cloudprovider/operations.md)
 
