@@ -33,7 +33,7 @@ Deployed together, these services make up the Spinnaker stack.
 * Issue Tracking - \( [https://github.com/spinnaker/spinnaker/issues](https://github.com/spinnaker/spinnaker/issues) \)
 * Experimental Deployment Support - \( [https://github.com/spinnaker/spinnaker/tree/master/experimental](https://github.com/spinnaker/spinnaker/tree/master/experimental) \)
 * Common Configuration - \( [https://github.com/spinnaker/spinnaker/tree/master/config](https://github.com/spinnaker/spinnaker/tree/master/config) \)
-* Single Image deployment configuration - 
+* Single Image deployment configuration - \( https://github.com/spinnaker/spinnaker \)
 
 [**Halyard**](https://github.com/spinnaker/halyard)**:** Halyard is a command line tool that makes it easier to configure Spinnaker.
 
