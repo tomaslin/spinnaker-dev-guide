@@ -1,8 +1,11 @@
 Working with the Spinnaker API
 
-Spinnaker provides 
+Getting Sample Payloads
 
-Tasks vs. Pipelines   
+Swagger Endpoint
+
+Tasks vs. Pipelines
+
 
 
 
